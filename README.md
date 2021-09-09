@@ -1,5 +1,5 @@
-#instalar
-npm install next react react-dom
+###Intalar
+> npm install next react react-dom
 
-#corer
-npm run dev
+###Correr
+> npm run dev
