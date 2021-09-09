@@ -1,5 +1,5 @@
-###Intalar
+### Intalar
 > npm install next react react-dom
 
-###Correr
+### Correr
 > npm run dev
